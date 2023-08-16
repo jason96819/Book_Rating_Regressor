@@ -11,4 +11,4 @@
 - 사용한 회귀 모델 : Linear Regressor, Ridge, Lasso, ElasticNet, Decision Tree, RandomForest, XGB, LGBM, CatBoost
 - 사용한 하이퍼파라미터 튜닝기 : Optuna
 
-자세한 설명 : 
+자세한 설명 : https://blog.naver.com/jjs1608/223185245877
